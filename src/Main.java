@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        // Declaring ArrayList
+        // Declaring ArrayList lol
         List<Book> listOfBooks = new ArrayList<>();
         Book javaInAction = new Book("Java in Action",
                 "Yaxye Muxamed", "Malable", new BigDecimal(600));
